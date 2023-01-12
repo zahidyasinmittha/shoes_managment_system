@@ -1,3 +1,4 @@
+//A CODE BY ZAHID YASIN
 #include<iostream>
 #include<windows.h>
 #include<mmsystem.h>
